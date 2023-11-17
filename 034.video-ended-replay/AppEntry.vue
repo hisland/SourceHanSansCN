@@ -23,7 +23,7 @@ function ended(evt) {
       width="1000"
       autoplay
       muted
-      src="http://10.0.0.101:9199/public/BG.mp4"
+      src="/BG.mp4"
       ref="videoRef"
       @progress="progress"
       @timeupdate="timeupdate"
